@@ -7666,10 +7666,12 @@ textarea.form-control-lg {
   margin-bottom: 1rem !important;
 }
 
-.mb-4 {
-  margin-bottom: 1.5rem !important;
+p.mb-4 {
   font-size: 1.6rem !important;
   line-height: 1.8 !important;
+}
+.mb-4 {
+  margin-bottom: 1.5rem !important;
 }
 
 .mb-5 {
