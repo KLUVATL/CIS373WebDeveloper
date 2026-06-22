@@ -602,7 +602,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 65%;
   height: auto;
 }
 
@@ -11027,6 +11027,13 @@ html {
   color: #1abc9c;
   font-size: 2rem;
   padding: 1rem;
+}
+.portfolio-modal .p {
+  font-size: 1.25rem;
+  line-height: 1.8rem;
+}
+.portfolio-modal .h5 {
+  font-size: 1.5rem;
 }
 .portfolio-modal .portfolio-modal-title {
   font-size: 2.25rem;
