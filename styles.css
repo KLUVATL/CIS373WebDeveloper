@@ -7668,6 +7668,7 @@ textarea.form-control-lg {
 
 .mb-4 {
   margin-bottom: 1.5rem !important;
+  font-size: 1.5rem !important;
 }
 
 .mb-5 {
@@ -11035,8 +11036,8 @@ html {
 .portfolio-modal .h5 {
   font-size: 1.5rem;
 }
-.portfolio-modal .modal-body p:first-of-type{
-  font-size: 1.5rem;
+.portfolio-modal .modal-body p{
+  font-size: 3rem;
   line-height: 1.7rem;
 }
 .portfolio-modal .portfolio-modal-title {
